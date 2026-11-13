@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8633","invalid email format displays validation feedback after blur","","2026-11-13","passed","2026-11-13","","invalid-login.spec.js","",""
+"","1064","valid credentials open the authenticated VWO experience","","2026-11-13","skipped","2026-11-13","","valid-login.spec.js","",""
+"","10137","synthetic invalid credentials display login failure feedback","","2026-11-13","passed","2026-11-13","","invalid-login.spec.js","",""
+"","10628","login form provides remember-me, password recovery, and trial entry points","","2026-11-13","passed","2026-11-13","","valid-login.spec.js","",""

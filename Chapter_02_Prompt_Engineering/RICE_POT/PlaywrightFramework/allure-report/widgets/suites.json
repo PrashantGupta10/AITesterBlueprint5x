@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"1a1340d2458279cf1756103b37f65b49","name":"invalid-login.spec.js","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"cda7a13ac92c8f0b7c22f11e2f1c209b","name":"valid-login.spec.js","statistic":{"failed":0,"broken":0,"skipped":1,"passed":1,"unknown":0,"total":2}}]}

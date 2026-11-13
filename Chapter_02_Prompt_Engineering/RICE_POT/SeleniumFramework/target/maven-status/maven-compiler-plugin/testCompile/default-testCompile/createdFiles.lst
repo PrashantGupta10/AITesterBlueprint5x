@@ -1,0 +1,4 @@
+com\example\salesforce\pages\LoginPage.class
+com\example\salesforce\tests\ValidLoginTest.class
+com\example\salesforce\tests\BaseTest.class
+com\example\salesforce\tests\InvalidLoginTest.class
