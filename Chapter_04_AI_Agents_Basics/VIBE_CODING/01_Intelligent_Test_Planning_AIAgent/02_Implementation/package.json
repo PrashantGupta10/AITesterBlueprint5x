@@ -1,0 +1,21 @@
+{
+  "name": "jira-test-plan-generator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -n frontend,backend -c blue,green \"vite --config src/frontend/vite.config.js\" \"node src/backend/server.js\"",
+    "build": "vite build --config src/frontend/vite.config.js",
+    "start": "npm run build && node src/backend/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.1.2",
+    "vite": "^6.0.7"
+  }
+}
